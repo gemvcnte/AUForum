@@ -17,12 +17,12 @@ To contribute to this project, you need to follow these steps:
 2. Clone the Repository: Clone the forked repository to your local machine using the following command in your terminal:
 
    ```bash
-   git clone https://github.com/n0Wickk/AUForum.git
+   git clone https://github.com/your-username/AUForum.git
 
 3. Create a New Branch: Move into the project's directory and create a new branch for your contribution using the following command:
 
    ```bash
-   cd ProjectName
+   cd AUForum
    git checkout -b your-branch-name
 
 4. Commit Changes: Commit your changes with a descriptive commit message:
